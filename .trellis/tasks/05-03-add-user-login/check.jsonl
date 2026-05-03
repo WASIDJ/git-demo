@@ -1,0 +1,5 @@
+{"file": ".trellis/spec/shared/typescript.md", "reason": "Verify TypeScript conventions followed"}
+{"file": ".trellis/spec/shared/code-quality.md", "reason": "Code quality standards to enforce"}
+{"file": ".trellis/spec/backend/quality.md", "reason": "Backend-specific quality checks"}
+{"file": ".trellis/spec/frontend/quality.md", "reason": "Frontend-specific quality checks"}
+{"file": ".trellis/spec/shared/git-conventions.md", "reason": "Git commit conventions"}

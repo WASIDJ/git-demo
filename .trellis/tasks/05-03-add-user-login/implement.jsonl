@@ -1,0 +1,5 @@
+{"file": ".trellis/spec/shared/typescript.md", "reason": "TypeScript conventions for the Next.js project"}
+{"file": ".trellis/spec/backend/database.md", "reason": "Prisma + PostgreSQL patterns and conventions"}
+{"file": ".trellis/spec/backend/error-handling.md", "reason": "API error handling patterns"}
+{"file": ".trellis/spec/frontend/components.md", "reason": "React/Next.js component conventions"}
+{"file": ".trellis/spec/frontend/type-safety.md", "reason": "End-to-end type safety patterns"}
